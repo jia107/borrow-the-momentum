@@ -29,6 +29,7 @@
 ---
 
 - 📖 [序章｜借大学的势，看看能走多远](chapters/00-prologue.md)
+- 🧩 [01｜借势第一步：大一的优势与三年路线（草稿）](chapters/01-first-step.md)
 
 ---
 
